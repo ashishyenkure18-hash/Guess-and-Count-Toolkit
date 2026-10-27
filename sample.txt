@@ -1,0 +1,8 @@
+Python is a popular programming language. Python is easy to learn and fun to use.
+This sample file is for testing the word counter tool in the Guess and Count toolkit.
+Python programs are readable, and Python programmers love clean code!
+Does the program count Python words correctly despite UPPERCASE letters and punctuation?
+Yes! Count, count, and count again — that is what this program does.
+
+Punctuation: commas, periods, colons, semicolons, and even exclamation marks!!!
+The word "python" should appear many times in this file.
